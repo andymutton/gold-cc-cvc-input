@@ -32,6 +32,8 @@ for entering a credit card's CVC (Card Verification Code). It supports both
 Do you believe this kittaaaaay? ![OMG HOT KITTY](http://www.rd.com/wp-content/uploads/sites/2/2016/04/01-cat-wants-to-tell-you-laptop.jpg Check out da kittaaaay)
 It may include an optional label, which by default is "CVC".
 
+<img src="http://www.rd.com/wp-content/uploads/sites/2/2016/04/01-cat-wants-to-tell-you-laptop.jpg">
+
 <div id="andwangiswang">Is he really?</div>
 <script>document.getElementById("andwangiswang").innerHtml = "This works??";</script>
 
