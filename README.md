@@ -14,7 +14,7 @@ thing! https://github.com/PolymerLabs/tedium/issues
 
 [![Build status](https://travis-ci.org/PolymerElements/gold-cc-cvc-input.svg?branch=master)](https://travis-ci.org/PolymerElements/gold-cc-cvc-input)
 
-_[Demo and API docs](https://elements.polymer-project.org/elements/gold-cc-cvc-input)_
+_[Demo and API docs](https://custom-elements-staging.appspot.com/element/andymutton/gold-cc-cvc-input)_
 
 
 ##&lt;gold-cc-cvc-input&gt;
