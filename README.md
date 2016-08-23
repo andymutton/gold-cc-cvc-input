@@ -37,6 +37,11 @@ It may include an optional label, which by default is "CVC".
 <div id="andwangiswang">Is he really?</div>
 <script>document.getElementById("andwangiswang").innerHtml = "This works??";</script>
 
+<form>
+<input type="text" id="nombre">
+<input type="submit" id="submit">
+</form>
+
 ```html
 <gold-cc-cvc-input label="Card Verification Value"></gold-cc-cvc-input>
 ```
