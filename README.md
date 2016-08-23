@@ -29,6 +29,7 @@ for entering a credit card's CVC (Card Verification Code). It supports both
 <gold-cc-cvc-input card-type="amex"></gold-cc-cvc-input>
 ```
 
+Do you believe this kittaaaaay? ![OMG HOT KITTY](http://www.rd.com/wp-content/uploads/sites/2/2016/04/01-cat-wants-to-tell-you-laptop.jpg Check out da kittaaaay)
 It may include an optional label, which by default is "CVC".
 
 ```html
